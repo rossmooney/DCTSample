@@ -3,7 +3,6 @@
 //  dct
 //
 //  Created by Ross M Mooney on 10/15/15.
-//  Copyright © 2015 BoomTown. All rights reserved.
 //
 
 import UIKit
